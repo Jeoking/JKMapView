@@ -722,7 +722,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.jeoking.gaodemap;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "9faaaed9-660c-48e1-90c5-8dadfb22ccb3";
-				PROVISIONING_PROFILE_SPECIFIER = zallsoon_driver_Dvp_new;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Debug;
 		};

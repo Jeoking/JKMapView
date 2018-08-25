@@ -1,5 +1,4 @@
 //
-//  ZallMapView.h
 //  GaodeMap
 //
 //  Created by JayKing on 17/6/21.

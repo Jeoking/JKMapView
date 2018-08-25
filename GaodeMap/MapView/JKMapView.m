@@ -1,5 +1,4 @@
 //
-//  ZallMapView.m
 //  GaodeMap
 //
 //  Created by JayKing on 17/6/21.

@@ -3,7 +3,7 @@
 //  ZJS-DRIVER
 //
 //  Created by so on 16/8/4.
-//  Copyright © 2016年 zall. All rights reserved.
+//  Copyright © 2016年 All rights reserved.
 //
 
 #import <MAMapKit/MAMapKit.h>
